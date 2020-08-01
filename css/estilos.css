@@ -3,7 +3,7 @@ body
     background: #1e1f24;
     color: #333;
     text-align: center;
-    font-family: Arial;
+    font-family: Helvetica;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -45,7 +45,12 @@ body
 {
     font-size: 20px;
 }
+#container p
+{
+    color: black;
+}
 #post
+
 {
     background: white;
     padding: 1em;
